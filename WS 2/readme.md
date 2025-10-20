@@ -1,0 +1,1 @@
+Tämä on Websivuston kehittäminen WS2 työpaja kansio

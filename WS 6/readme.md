@@ -1,0 +1,1 @@
+Tämä on Websivuston kehittäminen WS6 työpaja kansio
